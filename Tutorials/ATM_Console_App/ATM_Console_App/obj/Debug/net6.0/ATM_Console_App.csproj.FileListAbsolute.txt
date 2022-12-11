@@ -1,0 +1,15 @@
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\bin\Debug\net6.0\ATM_Console_App.exe
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\bin\Debug\net6.0\ATM_Console_App.deps.json
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\bin\Debug\net6.0\ATM_Console_App.runtimeconfig.json
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\bin\Debug\net6.0\ATM_Console_App.dll
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\bin\Debug\net6.0\ATM_Console_App.pdb
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.csproj.AssemblyReference.cache
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.AssemblyInfoInputs.cache
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.AssemblyInfo.cs
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.dll
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\refint\ATM_Console_App.dll
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.pdb
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ATM_Console_App.genruntimeconfig.cache
+C:\Users\red_yeti\GitHub\C_Sharp\Tutorials\ATM_Console_App\ATM_Console_App\obj\Debug\net6.0\ref\ATM_Console_App.dll
