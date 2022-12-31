@@ -15,38 +15,9 @@ namespace ATM_Console_App
             Console.WriteLine("3. Show Balance");
             Console.WriteLine("4. Exit");
         }
-        public static void deposit(CardHolder currentUser)
-        {
-            Console.WriteLine("how much money would you like to deposit? ");
-            double deposit = Double.Parse(Console.ReadLine());
-            currentUser.setBalance(currentUser.getBalance() + deposit);
-            Console.WriteLine("thank you for your money, Your new balance is: {0}", currentUser.getBalance());
 
-        }
-        public static void withdraw(CardHolder currentUser)
-        {
-            Console.WriteLine("how much money would you like to withdraw: ");
-            double withdrawal = Double.Parse(Console.ReadLine());
-            // check if the user has enough money
-            if(currentUser.getBalance() >= withdrawal)
-            {
-                currentUser.setBalance(currentUser.getBalance() -  withdrawal);
-            }
-            else
-            {
-                Console.WriteLine("sorry, you don't have enough money to withdraw {0}", withdrawal);
-            }
-                Console.WriteLine("thanks for choosing us today, your current balance is {0}", currentUser.getBalance());
-        }
-        public static void balance(CardHolder currentUser)
-        {
-            Console.WriteLine("Your balance is: {0}", currentUser.getBalance());
-        }
 
-        public static void exit(CardHolder currentUser)
-        {
-            Console.WriteLine("Thank you, have a nice day");
-        }
+
 
         // ----- END OF FUNCTIONS -----
 
@@ -105,10 +76,10 @@ namespace ATM_Console_App
                     option = int.Parse(Console.ReadLine());
                 }
                 catch { }
-                if(option == 1) { deposit(currentUser); }
-                if(option == 2) { withdraw(currentUser); }
-                if(option == 3) { balance(currentUser); }
-                if(option == 4) { exit(currentUser); break; }
+                if(option == 1) { currentUser.deposit(); }
+                if(option == 2) { currentUser.withdraw(); }
+                if(option == 3) { currentUser.showBalance(); }
+                if(option == 4) { currentUser.exit(); break; }
             }
             while (option != 4);
             Console.WriteLine("Thank you, have a nice day.");

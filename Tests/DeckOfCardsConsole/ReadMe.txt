@@ -1,0 +1,3 @@
+I created this app based on a game I played in Nepal. The premise is, you shuffle a deck of cards, flip 2 over and the total value of those 2 cards is the number of push ups you have to do. You repeat this, turning over 2 cards at a time until you have completed the deck. Doing a total of 364 push ups in a workout.
+
+This app does exactly that, shuffles a deck of cards and deals them out. The only difference is you are able to choose the number of cards dealt each round and the number of suits in the deck. So if you choose 4 suits, you are playing with a full deck, 2 suits is half a deck, 8 suits is 2 decks etc.   
